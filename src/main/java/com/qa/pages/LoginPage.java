@@ -7,5 +7,10 @@ public class LoginPage {
 	 System.out.print("This  is login page");	
 		
 	}
-
+   public  void loginSet()
+   {
+	   
+	   System.out.print("This  is login setting");	   
+	   
+   }
 }
