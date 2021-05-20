@@ -13,4 +13,11 @@ public class LoginPage {
 	   System.out.print("This  is login setting");	   
 	   
    }
+   
+   public void  validateUser()
+   {
+	   
+	   System.out.print("This  Validate  user credentials");   
+   }
+
 }

@@ -9,4 +9,11 @@ public class HomePage {
 		System.out.println("This  is the  home  page");
 	}
 	
+	
+	public void makeOrder()
+	{
+		
+		System.out.println("This method will make  new order");
+		
+	}
 }
